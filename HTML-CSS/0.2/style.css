@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.div1{
+    background-color: #F3F2ED;
+    height: 100px;
+}
+
+.div2{
+    background-color: #CCC8B3;
+    height: 300px;
+}
+
+.div3{
+    background-color: #F6F0E0;
+    height: 300px;
+}
+
+.div4{
+    background-color: #BFBD93;
+    height: 50px;
+}
